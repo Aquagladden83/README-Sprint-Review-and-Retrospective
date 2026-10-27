@@ -1,7 +1,7 @@
-# Sprint Review and Retrospective
-## Course Artifact
-- **Deliverable:** Sprint Review and Retrospective
-- **Description:** Captures Agile and Scrum practices, communication workflows, and process improvement frameworks applied throughout the software development lifecycle.
+ Sprint Review and Retrospective
+ Course Artifact
+Deliverable:** Sprint Review and Retrospective
+Description:** Captures Agile and Scrum practices, communication workflows, and process improvement frameworks applied throughout the software development lifecycle.
 
 
 ## Computer Science Program Essential Questions
